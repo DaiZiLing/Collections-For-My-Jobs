@@ -1,2 +1,12 @@
-# Collections-For-My-Jobs
-（这个库用来放我的美术作品，但这水平让专业的看了会笑话…orz）
+# Collections-For-My-Artwork
+（这个库用来放我的美术作品，实在是比不上专业的…orz）
+
+## Substance
+
+## 建模
+
+## 板绘
+
+## 平面设计
+
+## 手绘
