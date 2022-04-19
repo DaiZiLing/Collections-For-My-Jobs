@@ -3,7 +3,9 @@
 
 ## Substance
 
-![image](https://github.com/DaiZiLing/Collections-For-My-Jobs/blob/main/0419_Image/s1.png)
+### 某工业零件
+
+![image](https://github.com/DaiZiLing/Collections-For-My-Jobs/blob/main/0419_Image/s1.jpg)
 
 ## 建模
 
