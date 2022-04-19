@@ -31,6 +31,8 @@
 
 ### • 人物抱枕
 
+![image](https://github.com/DaiZiLing/Collections-For-My-Jobs/blob/main/0419_Image/s9.jpg)
+
 ### • 草稿、打型、头像
 
 ![image](https://github.com/DaiZiLing/Collections-For-My-Jobs/blob/main/0419_Image/s7.jpg)
